@@ -17,5 +17,5 @@ Provision a local Docker container using Terraform.
 1. **Install Docker & Terraform**
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/task3-docker-terraform.git
+   git clone https://github.com/iprohit/task3-docker-terraform.git
    cd task3-docker-terraform
