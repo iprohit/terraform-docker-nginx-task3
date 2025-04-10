@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Task 3 - Docker with Terraform"
 git branch -M main
-git remote add origin https://github.com/yourusername/task3-docker-terraform.git
+git remote add origin https://github.com/iprohit/task3-docker-terraform.git
 git push -u origin main
